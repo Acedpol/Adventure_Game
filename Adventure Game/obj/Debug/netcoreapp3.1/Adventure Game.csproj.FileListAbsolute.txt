@@ -1,0 +1,3 @@
+D:\FP2\Práctica 2\Adventure Game\obj\Debug\netcoreapp3.1\Adventure Game.csprojAssemblyReference.cache
+D:\FP2\Práctica 2\Adventure Game\obj\Debug\netcoreapp3.1\Adventure Game.AssemblyInfoInputs.cache
+D:\FP2\Práctica 2\Adventure Game\obj\Debug\netcoreapp3.1\Adventure Game.AssemblyInfo.cs
