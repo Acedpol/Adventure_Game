@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FP2\\Práctica 2\\Adventure Game\\Adventure Game.csproj",
+      "projectUniqueName": "D:\\KKK\\Adventure-Game\\Adventure Game\\Adventure Game.csproj",
       "projectName": "Adventure Game",
-      "projectPath": "D:\\FP2\\Práctica 2\\Adventure Game\\Adventure Game.csproj",
+      "projectPath": "D:\\KKK\\Adventure-Game\\Adventure Game\\Adventure Game.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "D:\\FP2\\Práctica 2\\Adventure Game\\obj\\",
+      "outputPath": "D:\\KKK\\Adventure-Game\\Adventure Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

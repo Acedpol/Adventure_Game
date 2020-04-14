@@ -42,6 +42,10 @@ namespace Adventure_Game
 
         }
 
+        /* Implementar un método que permita leer de archivo 
+         * una lista de comandos para el jugador (un comando por línea) 
+         * y haga que jugador ejecute dichas instrucciones en secuencia. */
+
         /// <summary>
         /// Lee el mapa del archivo file y lo almacena en las estructuras 
         /// descritas arriba. 
@@ -59,7 +63,7 @@ namespace Adventure_Game
             }
         }
 
-        /*====================== EXCEPCIÓN PARA DESCRIPCIONES =========================*/
+        /*====================== EXCEPCIÓN PARA DESCRIPCIONES ==========================*/
 
         /// <summary>
         /// Devuelve el texto correspondiente a una descripción.
@@ -71,7 +75,7 @@ namespace Adventure_Game
             return string;
         }
 
-        /*================= MÉTODOS AUXILIARES PARA LAS ESTRUCTURAS ===================*/
+        /*================= MÉTODOS AUXILIARES PARA LAS ESTRUCTURAS ====================*/
 
         /// <summary>
         /// Devuelve el índice del objeto dado en el vector de items. (-1 si no está)

@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Adventure Game/obj/Debug/netcoreapp3.1/Adventure Game.csprojAssemblyReference.cache
+Adventure Game/obj/Debug/netcoreapp3.1/Adventure Game.assets.cache
+Adventure Game/.vs/Adventure Game/v16/.suo
+Adventure Game/.vs/Adventure Game/v16/Server/sqlite3/db.lock
+Adventure Game/.vs/Adventure Game/v16/Server/sqlite3/storage.ide
+Adventure Game/.vs/Adventure Game/v16/Server/sqlite3/storage.ide-shm
+Adventure Game/.vs/Adventure Game/v16/Server/sqlite3/storage.ide-wal
